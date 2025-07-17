@@ -23,4 +23,5 @@ Com finalidade didática, sua implementação aborda os seguintes tópicos de fu
 * Top down data flow.
 * Controlled component.
 * Props Drilling.
+* LocalStorage.
   
