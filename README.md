@@ -6,15 +6,15 @@
 <br>
 Tecnologias utilizadas no projeto: Vite, React e Tailwind.
 
-Esta aplicação faz parte do curso " Programação Web" do Instituto Federal de Ciência, Educação e Tecnologia do Rio Grande do Sul. <br>
+Esta aplicação faz parte do curso "Programação Web" do Instituto Federal de Ciência, Educação e Tecnologia do Rio Grande do Sul. <br>
 Apresenta as seguintes funcionalidades:
 
 1 - Apresentação de formulário. <br>
 2 - Registro de anotações. <br>
-3 - Apresentação das anotações registradas.<br>
-4 - Exclusçao das anotações registradas.<br>
+3 - Apresentação das anotações.<br>
+4 - Exclusão das anotações registradas.<br>
 
-Com finalidade didatica, sua implementação aborda os seguintes tópicos de fundamentos em React:
+Com finalidade didática, sua implementação aborda os seguintes tópicos de fundamentos em React:
 
 * Props.
 * Spread operator.
